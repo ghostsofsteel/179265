@@ -20,7 +20,7 @@
 /*mobile background*/
 @media screen and (max-width: 767px){
   body {
-    background: url('https://cdn.discordapp.com/attachments/1138518664434430002/1153367719794708530/ezgif.com-crop_14.jpg') no-repeat center center fixed;
+    background: url('https://github.com/ghostsofsteel/179265/blob/main/ezgif.com-crop_14.jpg?raw=true') no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -38,7 +38,7 @@
       left:0;
       right:0;
       z-index:-1; /* needed to keep in the background */
-      background: url('https://cdn.discordapp.com/attachments/1138518664434430002/1153367719794708530/ezgif.com-crop_14.jpg') center center;
+      background: url('https://github.com/ghostsofsteel/179265/blob/main/ezgif.com-crop_14.jpg?raw=true') center center;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -51,13 +51,13 @@
 
 @media screen and (min-width: 768px){
 body {
-	background: url('https://cdn.discordapp.com/attachments/1138518664434430002/1153368861106769930/wallpaperflare.com_wallpaper_9.jpg') center center fixed;
+	background: url('https://github.com/ghostsofsteel/179265/blob/main/wallpaperflare.com_wallpaper_9.jpg?raw=true') center center fixed;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	font-family: 'Agdasima', sans-serif;
 	font-size: 18px !important;
 	color: #fb930a;}
-	 * {cursor: url(https://cdn.discordapp.com/attachments/1138518664434430002/1153374669836132453/ezgif.com-gif-maker_6.png), auto !important;} 
+	 * {cursor: url(https://github.com/ghostsofsteel/179265/blob/main/ezgif.com-gif-maker_6.png?raw=true), auto !important;} 
 }
 
 /* chat details */
@@ -110,12 +110,12 @@ button#label_currentChannel {
 }
 /*logo replacer*/
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
-	content: url('https://media.discordapp.net/attachments/1138518664434430002/1153367999907115029/ezgif.com-webp-to-png.png?width=904&height=904');
+	content: url('https://github.com/ghostsofsteel/179265/blob/main/ezgif.com-webp-to-png.png?raw=true');
 	width: 120px;
 }
 	/* all caves image/pregnant lions image*/
 div.cave-grid>img {
-	content: url('https://media.discordapp.net/attachments/1150937588492939364/1153359079146790972/1440-soundwave.png?width=1607&height=904')!important;
+	content: url('https://github.com/ghostsofsteel/179265/blob/main/1440-soundwave.png?raw=true')!important;
 	padding-left: 0%;
 	height: 120px;	
 	width:250px;
@@ -123,21 +123,21 @@ div.cave-grid>img {
 	overflow: hidden;
 }
 a[href$="118301"]>div.cave-grid>img {
-	content: url("https://i.pinimg.com/736x/ec/b2/4d/ecb24dfabed0d75e43dfa050bb717cc1.jpg")!important;	
+	content: url("https://github.com/ghostsofsteel/179265/blob/main/ecb24dfabed0d75e43dfa050bb717cc1.jpg?raw=true")!important;	
 	padding-left: 0%;
 	height: 120px;
 	width:250px;
 	opacity: 0.7;
 }
 a[href$="373846"]>div.cave-grid>img {	
-	content: url("https://media.discordapp.net/attachments/1150937588492939364/1153359082653241425/1f1ddc8e5c37f96dd047e81ca2a250ba.png?width=1408&height=792")!important;
+	content: url("https://github.com/ghostsofsteel/179265/blob/main/1f1ddc8e5c37f96dd047e81ca2a250ba.png?raw=true")!important;
 		padding-left: 0%;
 	height: 120px;	
 	width:250px;
 	opacity: 0.7;
 }
 a[href$="165935"]>div.cave-grid>img {	
-	content: url("https://news.tfw2005.com/wp-content/uploads/sites/10/2020/09/3Zero-DLX-Soundwave-66.jpg")!important;
+	content: url("https://github.com/ghostsofsteel/179265/blob/main/3Zero-DLX-Soundwave-66.jpg?raw=true")!important;
 		padding-left: 0%;
 	height: 120px;	
 	width:250px;
@@ -152,12 +152,12 @@ background: url('https://static.lioden.com/images/dynamic/backgrounds/stmarie.pn
 }
 /* unsorted cave */
 a[href$="unsorted.php?id=179265"]>div.cave-grid>img {
-	content: url('https://media.discordapp.net/attachments/1150937588492939364/1153359078551212163/maxresdefault.png?width=1408&height=792')!important;
+	content: url('https://github.com/ghostsofsteel/179265/blob/main/maxresdefault.png?raw=true')!important;
 
 }
 /* pride overview cave */
 a[href$="lionoverview.php?id=179265"]>div.cave-grid>img {
-	content: url('https://news.tfw2005.com/wp-content/uploads/sites/10/2020/09/3Zero-DLX-Soundwave-74.jpg')!important;
+	content: url('https://github.com/ghostsofsteel/179265/blob/main/3Zero-DLX-Soundwave-74.jpg?raw=true')!important;
 
 }
 
@@ -174,7 +174,7 @@ a[href$="lionoverview.php?id=179265"]>div.cave-grid>img {
 }
 /* da mounds */
 .mound-grid img {
-	background: url('https://cdn.discordapp.com/attachments/1138518664434430002/1153377848170659971/ezgif.com-resize_8.jpg');
+	background: url('https://github.com/ghostsofsteel/179265/blob/main/ezgif.com-resize_8.jpg?raw=true');
 	width: 0;
 	height: 0;
 	padding-top: 80px;
@@ -185,14 +185,14 @@ a[href$="lionoverview.php?id=179265"]>div.cave-grid>img {
 /* UNSORTED BEETLES */
  
 a[href$="unsorted-beetles.php?id=254590"] img {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153377848170659971/ezgif.com-resize_8.jpg')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/ezgif.com-resize_8.jpg?raw=true')!important;
  
 }
  
 /* MOUNDS */
  
 a[href$="99953"]>.mound-grid img {
-    background: url('https://cdn.discordapp.com/attachments/1138518664434430002/1153377848489422848/ezgif.com-resize_7.jpg');
+    background: url('https://github.com/ghostsofsteel/179265/blob/main/ezgif.com-resize_7.jpg?raw=true');
     width: 0px!important;
     height: 0px!important;
     padding-top: 80px;
@@ -295,7 +295,7 @@ table#player img {
 /* pagedoll */
 .container.main::after {
 	 content: "";
-    background-image: url('https://cdn.discordapp.com/attachments/1138518664434430002/1153368524056698880/soudnwave.png');
+    background-image: url('https://github.com/ghostsofsteel/179265/blob/main/soudnwave.png?raw=true');
     background-size: cover;
     height: 250px;
     width: 375px;
@@ -686,41 +686,41 @@ div.slider.round::before {
 
 /* KING DYNASTY */
 img[src$="ancestors.jpg"] {
-    content:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14a934aa-4b2b-45fe-b083-95091ddfe2ac/d6mkepj-ac4aa0fc-f27e-43c2-b0e5-ba1f3eae24d6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0YTkzNGFhLTRiMmItNDVmZS1iMDgzLTk1MDkxZGRmZTJhY1wvZDZta2Vwai1hYzRhYTBmYy1mMjdlLTQzYzItYjBlNS1iYTFmM2VhZTI0ZDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FCOTKjyYi6lbDIG3w_TqIRgISwoXFqe-m5YbZdZanD8')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/d6mkepj-ac4aa0fc-f27e-43c2-b0e5-ba1f3eae24d6.gif?raw=true')!important;
     width:185px!important;
  
 }
  
 /* PRIDE DYNASTY */
 img[src$="ancestorsfem.png"] {
-    content:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14a934aa-4b2b-45fe-b083-95091ddfe2ac/d6mkepj-ac4aa0fc-f27e-43c2-b0e5-ba1f3eae24d6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0YTkzNGFhLTRiMmItNDVmZS1iMDgzLTk1MDkxZGRmZTJhY1wvZDZta2Vwai1hYzRhYTBmYy1mMjdlLTQzYzItYjBlNS1iYTFmM2VhZTI0ZDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FCOTKjyYi6lbDIG3w_TqIRgISwoXFqe-m5YbZdZanD8')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/d6mkepj-ac4aa0fc-f27e-43c2-b0e5-ba1f3eae24d6.gif?raw=true')!important;
     width:185px!important;
  
 }
  
 /* ACHIEVMENTS */
 img[src$="achievements.jpg"] {
-    content:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14a934aa-4b2b-45fe-b083-95091ddfe2ac/d6mkepj-ac4aa0fc-f27e-43c2-b0e5-ba1f3eae24d6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0YTkzNGFhLTRiMmItNDVmZS1iMDgzLTk1MDkxZGRmZTJhY1wvZDZta2Vwai1hYzRhYTBmYy1mMjdlLTQzYzItYjBlNS1iYTFmM2VhZTI0ZDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FCOTKjyYi6lbDIG3w_TqIRgISwoXFqe-m5YbZdZanD8')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/d6mkepj-ac4aa0fc-f27e-43c2-b0e5-ba1f3eae24d6.gif?raw=true')!important;
     width:185px!important;
  
 }
  
 /* SHOWCASE */
 img[src$="showcase/banner.png"] {
-    content:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14a934aa-4b2b-45fe-b083-95091ddfe2ac/d6mkepj-ac4aa0fc-f27e-43c2-b0e5-ba1f3eae24d6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0YTkzNGFhLTRiMmItNDVmZS1iMDgzLTk1MDkxZGRmZTJhY1wvZDZta2Vwai1hYzRhYTBmYy1mMjdlLTQzYzItYjBlNS1iYTFmM2VhZTI0ZDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FCOTKjyYi6lbDIG3w_TqIRgISwoXFqe-m5YbZdZanD8')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/d6mkepj-ac4aa0fc-f27e-43c2-b0e5-ba1f3eae24d6.gif?raw=true')!important;
     width:185px!important;
  
 }
 /* TIME DAY */
 img[src$="day.png"] {
-    content:url('https://i.pinimg.com/originals/42/15/2a/42152a7f3ae22894c9f9a0c53bc265b0.png')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/42152a7f3ae22894c9f9a0c53bc265b0.png?raw=true')!important;
     width:40px!important;
  
 }
  
 /* TIME NIGHT */
 img[src$="night.png"] {
-    content:url('https://i.pinimg.com/originals/42/15/2a/42152a7f3ae22894c9f9a0c53bc265b0.png')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/42152a7f3ae22894c9f9a0c53bc265b0.png?raw=true')!important;
     width:40px!important;
  
 }
@@ -729,14 +729,14 @@ img[src$="night.png"] {
  
 /* DRY SEASON */
 img[src$="dry.png"] {
-    content:url('https://icons.iconarchive.com/icons/100-seedless-penguins/soundwave/512/Transformers-Soundwave-icon.png')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/Transformers-Soundwave-icon.png?raw=true')!important;
     width:40px!important;
  
 }
  
 /* WET SEASON */
 img[src$="wet.png"] {
-    content:url('https://icons.iconarchive.com/icons/100-seedless-penguins/soundwave/512/Transformers-Soundwave-icon.png')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/Transformers-Soundwave-icon.png?raw=true')!important;
     width:40px!important;
 }
  
@@ -744,14 +744,14 @@ img[src$="wet.png"] {
  
 /* GOLD BEETLE */
 img[src$="icon-beetle-gold.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153375658861396118/250px-Symbol_decept_reg.png')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/250px-Symbol_decept_reg.png?raw=true')!important;
     width:20px!important;
  
 }
  
 /* SILVER BEETLE */
 img[src$="icon-beetle-silver.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153375901778727062/Autobots-Logo.png')!important;
+    content:url('https://github.com/ghostsofsteel/179265/blob/main/Autobots-Logo.png?raw=true')!important;
     width:20px!important;
  
 }
@@ -760,28 +760,28 @@ img[src$="icon-beetle-silver.png"] {
  
 /* JAN */
 img[src$="dermestid.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* FEB */
 img[src$="heartshell.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* MARCH */
 img[src$="beetlerhino.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* APRIL */
 img[src$="easteregg.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
    width:60px!important;
  
 }
@@ -789,90 +789,90 @@ img[src$="easteregg.png"] {
  
 /* MAY */
 img[src$="beetlemant.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* JUNE */
 img[src$="khepri.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* JULY MS */
 img[src$="shard.png"] {
-    content:url('https://media.discordapp.net/attachments/1138518664434430002/1153373056916533298/ezgif.com-crop.webp?width=498&height=214')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop.webp')!important;
     width:60px!important;
  
 }
  
 /* JULY AC */
 img[src$="axion.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* AUG CB */
 img[src$="beetlecarrion.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* AUG DB */
 img[src$="bone.png"] {
-    content:url('https://media.discordapp.net/attachments/1138518664434430002/1153373056916533298/ezgif.com-crop.webp?width=498&height=214')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop.webp')!important;
     width:60px!important;
  
 }
  
 /* SEPT JB */
 img[src$="beetlejewel.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* SEPT ET */
 img[src$="eldritch.png"] {
-    content:url('https://media.discordapp.net/attachments/1138518664434430002/1153373056916533298/ezgif.com-crop.webp?width=498&height=214')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop.webp')!important;
     width:60px!important;
 }
  
 /* OCT BB */
 img[src$="beetleblood.png"] {
-    content:url('https://media.discordapp.net/attachments/1138518664434430002/1153373056916533298/ezgif.com-crop.webp?width=498&height=214')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop.webp')!important;
     width:60px!important;
  
 }
  
 /* OCT NF */
 img[src$="nephelinefeather.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* OCT DS */
 img[src$="demonicscale.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* NOV */
 img[src$="scarabbeetle.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
  
 /* DEC */
 img[src$="stinkbug.png"] {
-    content:url('https://cdn.discordapp.com/attachments/1138518664434430002/1153373056576786432/ezgif.com-crop_1.webp')!important;
+    content:url('https://raw.githubusercontent.com/ghostsofsteel/179265/main/ezgif.com-crop_1.webp')!important;
     width:60px!important;
  
 }
@@ -902,7 +902,7 @@ img[src$="stinkbug.png"] {
 	}
 	.pun-table {
 		width: 580px;
-		background: url('https://media.discordapp.net/attachments/1150937588492939364/1153359082024087734/transformers-artwork-sound-wave-wallpaper-preview.png?width=800&height=451') top center no-repeat;
+		background: url('https://github.com/ghostsofsteel/179265/blob/main/transformers-artwork-sound-wave-wallpaper-preview.png?raw=true') top center no-repeat;
 		background-size: cover;
 		border-radius: 5px;
 		opacity: 0.8;
